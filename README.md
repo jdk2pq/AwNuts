@@ -1,4 +1,5 @@
-# :beers: Can I Drink It? :beer:
+# :beers: Aw, Nuts :beer:
+<img src="https://i.imgur.com/HzTujCL.gif" />
 I love beer. I hate nuts (because I'm allergic). Some beers are made with nuts, and those beers will kill me. This is a list of them (and brews I suspected having nuts -- but actually don't!) for my future reference.
 
 # Format
