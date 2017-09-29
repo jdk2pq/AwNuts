@@ -33,4 +33,4 @@ I love beer. I hate nuts (because I'm allergic). Some beers are made with nuts, 
 I will gladly accept pull requests and contributions of any kind (assuming it doesn't break anything).
 
 # License
-[MIT](https://github.com/jdk2pq/CanIDrinkIt/LICENSE.md) (Just give me some credit plz. Thanks! :beers:)
+[MIT](https://github.com/jdk2pq/CanIDrinkIt/blob/master/LICENSE.md) (Just give me some credit plz. Thanks! :beers:)
