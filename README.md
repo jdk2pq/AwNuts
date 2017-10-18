@@ -19,6 +19,12 @@ I love beer. I hate nuts (because I'm allergic). Some beers are made with nuts, 
 - [Champion Brewing Company](http://championbrewingcompany.com)
   - [Hogwaller Scramble](http://championbrewingcompany.com/beer/)
     - It's a stout. But, I called Champion to verify no nuts were used, and they said no nuts were used. 
+- [Evolution](https://www.evolutioncraftbrewing.com)
+  - [Jacques Au Lantern](https://www.evolutioncraftbrewing.com/store/Jacques-Au-Lantern/B14597DC-54CD-423D-BAE2-8032F9952CBC)
+    - Pumpkin beers that just say "with spices" make me nervous. However, I've had this before and had no issues. 
+- [KBC](http://www.federaljacks.com/ales.html)
+  - [Pumpkin Ale](https://www.traderjoes.com/fearless-flyer/article/1332)
+    - Pumpkin beers that just say "with spices" make me nervous. However, I've had this before and had no issues.
 - [Southern Tier](http://www.stbcbeer.com/)
   - [Cold Press Coffee Pumking](http://www.stbcbeer.com/beer/cold-press-coffee-pumking/)
     - [This review](http://beerstreetjournal.com/southern-tier-cold-press-coffee-pumking/) describes it as "nutty," and I also thought it tasted nutty. Turns out, that's just the coffee. Check the beer's page for more information on its brewing process.
